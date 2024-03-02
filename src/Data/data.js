@@ -1,4 +1,4 @@
-[
+const data = [
     {
         "Id":"1001",
         "name":"abas",
@@ -32,3 +32,4 @@
         "status":"sag"
     }
 ]
+export default data
